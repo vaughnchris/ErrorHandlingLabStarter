@@ -65,4 +65,4 @@ A starter repository with all 7 files is provided. Your task is to **clone** thi
 
 Use the following command to clone the starter project:
 ```bash
-git clone [https://github.com/ProfessorVaughn/cmpsc272-exception-lab-starter](https://github.com/ProfessorVaughn/cmpsc272-exception-lab-starter)
+git clone [[https://github.com/ProfessorVaughn/cmpsc272-exception-lab-starter]
